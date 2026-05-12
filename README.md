@@ -50,7 +50,7 @@ flowchart LR
 ## Project Structure
 
 ```text
-/home/runner/work/Grammer-Bot/Grammer-Bot
+.
 ├── app
 │   ├── api/routes           # Upload, transcription, grammar, and pipeline endpoints
 │   ├── core                 # Configuration and logging setup
