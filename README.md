@@ -1,6 +1,6 @@
-# Grammer-Bot
+# Grammar Bot
 
-Grammer-Bot is a FastAPI application for spoken-English grammar coaching. It lets a learner record or upload audio, transcribes the speech with Whisper, and sends the transcript to Groq for grammar analysis, corrections, and proficiency feedback.
+Grammar Bot is a FastAPI application for spoken-English grammar coaching. It lets a learner record or upload audio, transcribes the speech with Whisper, and sends the transcript to Groq for grammar analysis, corrections, and proficiency feedback.
 
 ## Highlights
 
@@ -12,7 +12,7 @@ Grammer-Bot is a FastAPI application for spoken-English grammar coaching. It let
 
 ## Screenshot
 
-![Grammer-Bot interface](docs/assets/grammer-bot-ui.png)
+![Grammar Bot interface](docs/assets/grammar-bot-ui.png)
 
 ## Processing Flow
 
